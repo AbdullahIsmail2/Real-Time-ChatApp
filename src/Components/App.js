@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router-dom";
 import Login from "./Login.js";
 import Chats from "./Chats.js";
 
-import { AuthProvider } from "../contexts/AuthContext.js";
 
 function App() {
 	return (
